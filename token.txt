@@ -1,0 +1,4 @@
+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
+
+
+git push https://<GITHUB_ACCESS_TOKEN>@github.com/<GITHUB_USERNAME>/<REPOSITORY_NAME>.git
